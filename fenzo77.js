@@ -1192,9 +1192,9 @@ case 'hanzo': case 'prp': case 'inventori': case 'profile':{
      teksehmazeh += `*Role* : ${role}\n`
      teksehmazeh += `*Level* : ${getLevelingLevel(m.sender)}`
      let butRun = [
-        	{ urlButton: { displayText: `Group WhatsApp`, url : `https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG` } },
-        	{ urlButton: { displayText: `Instagram`, url : `https://Instagram.com/Lexxy24` } },
-            { urlButton: { displayText: `☎️Contact Me`, url: `+62 857-8900-4732` } },
+        	{ urlButton: { displayText: `Group WhatsApp`, url : `https://chat.whatsapp.com/H984ganTo0n6IuBlpMMEbh` } },
+        	{ urlButton: { displayText: `Instagram`, url : `https://Instagram.com/Ademods2` } },
+            { urlButton: { displayText: `☎️Contact Me`, url: `+62 898-0330-708` } },
             { quickReplyButton: { displayText: `🏧 leaderboard`, id: 'leaderboard'} }
         	]
         	mans.sendMessage(m.chat, { caption: teksehmazeh, document: { url: 'https://fatiharridho.my.id/database/islam/juz-amma-arab-latin-indonesia.pptx' }, mimetype: 'application/vnd.openxmlformats-officedocument.presentationml.presentation', fileName: '© LexxyBotMD', templateButtons: butRun, footer: `ingin Berpetualang Lagi`, mentions: [m.sender] })
@@ -2576,12 +2576,12 @@ if (!args.join(" ")) return m.reply(`Text mana?\n\nExample : ${prefix + command}
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'SCRIPT',
-                                    url: 'https://github.com/Lexxy24/KaguraMD'
+                                    url: 'https://github.com/Ademods2'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'OWNER',
-                                    phoneNumber: ' +62 822-7991-5237'
+                                    phoneNumber: ' +62 898-0330-708'
                                 }
                             }, {
                                 quickReplyButton: {
