@@ -1136,7 +1136,7 @@ const jumlahUser = pendaftar.length
   if (!isInventoriBuruan){ addInventoriBuruan(m.sender) }
   
 const listmn = `Selamat ${salam} ${pushname} 👋
-Saya *${namebot}*, Assisten *Lexxy Official* Bot Ini Adalah Beta Multi-Device WhatsApp.
+Saya *${namebot}*, Assisten *Ademods* Bot Ini Adalah ModsVIP WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 ─────────────
 ❏ *Info User*
@@ -1145,13 +1145,13 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 > Role User : *${role}*
 ────────────
 ❏ *Info Creator*
-> Name : *Lexxy Official*
+> Name : *Ademods*
 > Nomor : *082279915237*
 > Umur : *18+*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Coding*
-> Made in : *Palembang*
-> Nama Asli : *Pebri Pratama*
+> Made in : *Madiun*
+> Nama Asli : *Ade Azil M*
 ────────────
 ❏ *Info Server*
 > Tanggal Server : *${jangwak}*
@@ -1205,12 +1205,12 @@ case 'list': case 'menu': case 'help': case '?': {
                 let kontol = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/Lexxy24/KaguraMD'
+                                    url: 'https://github.com/Ademods2'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 822-7991-5237'
+                                    phoneNumber: '+62 898-0330-708'
                                 }
                             },{
                                 quickReplyButton: {
@@ -1228,7 +1228,7 @@ case 'list': case 'menu': case 'help': case '?': {
                                     id: 'hanzo'
                                 }
                             }]
-mans.send5ButImg(m.chat, listmn, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 𝘓𝘦𝘹𝘹𝘺 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭`, global.thumb, kontol)
+mans.send5ButImg(m.chat, listmn, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 Ademods`, global.thumb, kontol)
 }
         	break
 case 'grupbot':
