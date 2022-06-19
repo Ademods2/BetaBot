@@ -1234,7 +1234,7 @@ mans.send5ButImg(m.chat, listmn, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 Ademo
 case 'grupbot':
 case 'groupbot':
 case 'botgrup':
-fakey(`https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG`)
+fakey(`https://chat.whatsapp.com/H984ganTo0n6IuBlpMMEbh`)
 break
 case 'limit':
 fakey(`*Sisa Limit Anda : ${global.db.users[m.sender].limit}*`)
